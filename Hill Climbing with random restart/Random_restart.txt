@@ -1,0 +1,4 @@
+N-puzzle Solved Using Random Restart Approach
+
+Average time taken to solve this:: 5210.4566
+Success rate for solving this:: 0.68600
