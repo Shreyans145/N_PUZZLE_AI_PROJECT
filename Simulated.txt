@@ -1,0 +1,4 @@
+N-puzzle Solved Using Simulated Annealing Approach
+ 
+Average time taken to solve this: 2212.52000
+N-puzzle Simulated Annealing Approach Rate of Success: 0.40000
